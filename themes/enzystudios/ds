@@ -1,0 +1,48 @@
+<div id="slides">
+							<a href="#" class="prev"><img src="images/arrow-prev.png" width="24" height="43" alt="Arrow Prev"></a>
+							<a href="#" class="next"><img src="images/arrow-next.png" width="24" height="43" alt="Arrow Next"></a>
+							<div class="slides_container">
+								<div class="slide">
+									<img src="images/slide-1.png" width="900" height="506" alt="Slide 1"></img>
+									<div class="caption" style="bottom:0">
+										<p>Happy Bokeh Thursday!</p>
+									</div>
+								</div>
+								<div class="slide">
+									<img src="images/slide-2.png" width="900" height="506" alt="Slide 2"></img>
+									<div class="caption">
+										<p>Taxi</p>
+									</div>
+								</div>
+								<div class="slide">
+									<img src="images/slide-3.png" width="900" height="506" alt="Slide 3"></img>
+									<div class="caption">
+										<p>Happy Bokeh raining Day</p>
+									</div>
+								</div>
+								<div class="slide">
+									<img src="images/slide-4.png" width="900" height="506" alt="Slide 4"></img>
+									<div class="caption">
+										<p>We Eat Light</p>
+									</div>
+								</div>
+								<div class="slide">
+									<img src="images/slide-5.png" width="900" height="506" alt="Slide 5"></img>
+									<div class="caption">
+										<p>&ldquo;I must go down to the sea again, to the lonely sea and the sky...&rdquo;</p>
+									</div>
+								</div>
+								<div class="slide">
+									<img src="images/slide-6.png" width="900" height="506" alt="Slide 6"></img>
+									<div class="caption">
+										<p>twelve.inch</p>
+									</div>
+								</div>
+								<div class="slide">
+									<img src="images/slide-7.png" width="900" height="506" alt="Slide 7"></img>
+									<div class="caption">
+										<p>Save my love for loneliness</p>
+									</div>
+								</div>
+							</div>	
+						</div>

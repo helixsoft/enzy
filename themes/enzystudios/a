@@ -1,0 +1,95 @@
+<div class="galery-wrapper_r">
+								<div class="gallery_r">
+									<div class="gallery-slide_r gallery-slide-first_r">
+										<img src="images/1.jpg" alt="slide 01" />
+									</div>
+									<div class="gallery-slide_r">
+										<img src="images/2.jpg" alt="slide 02" />
+									</div>
+									<div class="gallery-slide_r">
+										<img src="images/3.jpg" alt="slide 03" />
+									</div>
+									<div class="gallery-slide_r">
+										<img src="images/4.jpg" alt="slide 04" />
+									</div>	
+									<div class="gallery-slide_r">
+										<img src="images/5.jpg" alt="slide 05" />
+									</div>	
+									<div class="gallery-slide_r">
+										<img src="images/6.jpg" alt="slide 06" />
+									</div>	
+									<div class="gallery-slide_r">
+										<img src="images/7.jpg" alt="slide 07" />
+									</div>
+								</div>
+							</div>
+							<div class="clear"></div> 
+							<div id="gallery-nav_r"></div>
+
+
+							
+
+		                <div class="services-list">
+							<div class="col" >
+								<img src="images/services/services_icon_01.png" id="recording" alt="icon_01" />
+								<span class="service-title" ><b>Recording</b></span>
+							</div>
+							<div class="col" >
+								<img src="images/services/services_icon_02.png" id="mixing" alt="icon_02" />
+								<span class="service-title" ><b>Mixing</b></span>
+								
+							</div>
+							<div class="col" >
+								<img src="images/services/services_icon_03.png" id="sampling" alt="icon_03" />
+								<span class="service-title" ></b>Mastering</b></span>
+								
+							</div>
+							<div class="col" >
+								<img src="images/services/services_icon_04.png" id="mastering" alt="icon_04" />
+								<span class="service-title" >Online Mixing & Mastering</span>
+							</div>
+						</div>
+
+
+						<ul class="ca-menu">
+		                    <li class="ser">
+		                        <a href="#">
+		                            <span class="ca-icon">C</span>
+		                            <div class="ca-content">
+		                                <h2 class="ca-main">Recording</h2>
+		                            </div>
+		                        </a>
+		                    </li>
+		                    <li class="ser">
+		                        <a href="#">
+		                            <span class="ca-icon">U</span>
+		                            <div class="ca-content">
+		                                <h2 class="ca-main">Mixing</h2>
+		                            </div>
+		                        </a>
+		                    </li>
+		                    <li class="ser">
+		                        <a href="#">
+		                            <span class="ca-icon">M</span>
+		                            <div class="ca-content">
+		                                <h2 class="ca-main">Mastering</h2>
+		                            </div>
+		                        </a>
+		                    </li>
+		                    <li class="ser">
+		                        <a href="#">
+		                            <span class="ca-icon">M</span>
+		                            <div class="ca-content">
+		                                <h2 class="ca-main">Online Mixing & Mastering</h2>
+		                            </div>
+		                        </a>
+		                    </li>
+		                </ul>
+		                <div class="summary">
+							<ul>
+								<li id="s1">Studio A</li>
+								<li id="s2">Studio B</li>
+								<li id="s3">Live Room</li>
+								<li id="s4">Lounge</li>
+							</ul>
+						</div>
